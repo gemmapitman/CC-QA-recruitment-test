@@ -1,4 +1,4 @@
-# Clear Channel Senior QA Engineer Recruitment Test
+# Clear Channel QA Engineer Recruitment Test
 
 ## Introduction
 Thank you for taking the time to do our technical test. 
@@ -16,7 +16,7 @@ The zip file should contain a folder which includes the search.feature file and 
 
 ### TASK 1: Review and improve a feature file
 
-As a Senior QA Engineer, your role will include peer reviewing BDD scenarios (written using the Gherkin syntax) as well as step definitions written by other members of the QA team. 
+As a member of the QA team, your role will include peer reviewing BDD scenarios (written using the Gherkin syntax) and step definitions written by other members of the team. 
 
 In this repo there is a file named ``search.feature`` Imagine this has been created by another QA Engineer on your team. Please take a copy of the feature file. Once you have a copy, please review the contents of the feature file and update or change anything which you think can be improved upon.
 
